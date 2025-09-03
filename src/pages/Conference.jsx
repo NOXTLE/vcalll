@@ -26,7 +26,7 @@ const Conference = () => {
       sharedLinks: [
         {
           name: "Copy Link",
-          url: `http://localhost:3000/room/${id}`,
+          url: `https://vcalll.vercel.app/room/${id}`,
         },
       ],
       scenario: {
